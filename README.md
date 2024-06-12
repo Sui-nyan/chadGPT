@@ -1,8 +1,7 @@
-
-
 # Preface
 
 Lastest snapshot of school gitlab (Hochschule der Medien) 
+(18 June 2023)
 
 # chadGPT
 
